@@ -1,4 +1,4 @@
-# Survival Game - Roblox
+# Hazard Zone - Roblox
 
 A complete survival game built with Claude Code and Roblox Studio MCP.
 
