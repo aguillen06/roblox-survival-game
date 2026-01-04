@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Roblox Studio
+*.rbxlx.lock
+*.rbxl.lock
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
